@@ -27,5 +27,9 @@ The analysis of the election show that:
   -Diana DeGette.  who received 73.8% of the vote and 272,892 number of votes.
   
   ## Challenge Overview
+  -Extend your use of for loops and conditionals with membership and logical operators.
+  -Scope and refactor code to provide additional information.
+  -Write data to an output file and print the file.
   
-  ## challenge Summary
+  ## Challenge Summary
+  We extracted information about the election results and voter turnout.
